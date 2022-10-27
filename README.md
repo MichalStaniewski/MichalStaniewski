@@ -1,3 +1,2 @@
 Hello, I'm Michal Staniewski.
-I'm an aspiring game developer and programmer, currently studying Computer Gaming Technology at Anglia Ruskin University.
-This will be a deposit of some of my projects and things i worked on during my studies.
+I am a game developer and programmer, graduated from Anglia Ruskin University with first class honours in Computer Gaming Technology.
